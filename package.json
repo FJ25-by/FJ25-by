@@ -1,7 +1,8 @@
 {
 "name": "haikal-hw",
 "version": "3.1.0",
-"description": "New Project
+"description": "New Project"
+}
 "scripts": {
 "start": "node index.js"
 }
